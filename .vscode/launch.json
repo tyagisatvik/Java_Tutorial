@@ -5,6 +5,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SecondClass",
+      "request": "launch",
+      "mainClass": "SecondClass",
+      "projectName": "Code_Tutorial_58be91e1"
+    },
+    {
+      "type": "java",
       "name": "Launch FirstClass",
       "request": "launch",
       "mainClass": "FirstClass",
