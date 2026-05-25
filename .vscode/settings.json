@@ -1,0 +1,6 @@
+{
+  // Force Java debug output to the integrated terminal
+  "java.debug.settings.console": "integratedTerminal",
+  // If using Code Runner extension, run in terminal instead of Output pane
+  "code-runner.runInTerminal": true
+}
